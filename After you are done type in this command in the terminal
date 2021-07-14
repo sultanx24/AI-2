@@ -1,0 +1,3 @@
+After you are done type in this command in the terminal
+
+$ source ~/catkin_ws/devel/setup.bash
